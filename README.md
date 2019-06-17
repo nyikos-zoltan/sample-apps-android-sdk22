@@ -1,7 +1,4 @@
 # sample-apps-android-sdk22
 Android Sample, requires Android SDK 2
 
-help
-help
-help
-heeelp
+its aint gonna work
