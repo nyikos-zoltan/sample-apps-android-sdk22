@@ -2,3 +2,10 @@
 Android Sample, requires Android SDK 2
 
 brand new test
+all the tests
+more
+moooore
+teeeests
+keeps working
+log
+log2
