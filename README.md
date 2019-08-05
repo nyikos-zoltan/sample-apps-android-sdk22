@@ -2,4 +2,4 @@
 Android Sample, requires Android SDK 2
 
 brand new test
-svg delay test #5
+svg delay test #6
